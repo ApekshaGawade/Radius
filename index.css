@@ -24,6 +24,8 @@
     /* background-color: #20407f !important; */
     background-color: #fff !important;
 }
+.navbar-toggler
+{padding:0rem !important;}
 /* End of CSS for NAVIGATION section*/
 /* CSS for banner */
 .banner
@@ -88,12 +90,8 @@
 /* About end */
 /* css for mobile */
 @media(max-width:500px){
-    .bannera
-    {
-        height:500px;
-    }
     .banner
     {
-        height: 650px;
+        height: 700px;
     }
 }
